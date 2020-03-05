@@ -93,11 +93,7 @@ public class SalidaController {
 		salidaService.save(salida);
 		
 		return salida;
-	}
-
-
-
-	
+	}	
 }
 
 
